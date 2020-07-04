@@ -1,5 +1,5 @@
 
-# Joydeep's build of Dynamic Window Manager (dwm)
+# Joydeep's build of the Dynamic Window Manager (dwm)
 * * *
 ****About the Project****
 * * *
