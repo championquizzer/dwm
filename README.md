@@ -17,9 +17,9 @@ Each screen contains a small status bar which displays all available tags, the l
 
 By default dwm is a barebones window manager and it's meant to be that way! Minimalism is at the core of suckless's philosophy.
 I am a heavy desktop user and to use dwm as my window manager I needed some tweaking and tinkering done. I have 'patched' some features to the default build and this is pretty much adapted to my particular workflow.
-***
-****Patches and features****
-***
+
+## **Patches and features**
+
 - [centeredmaster](https://dwm.suckless.org/patches/centeresmaster/) : centers the nmaster area on screen, using mfact * monitor width & height, with the stacked windows distributed to the left and right. It can be selected with [Alt]+[u].
 - [fibonnaci](https://dwm.suckless.org/patches/fibonacci/) : new layouts (spiral and dwindle) that arranges all windows in Fibonacci tiles: The first window uses half the screen, the second the half of the remainder, etc. 
 - [vanitygaps](https://dwm.suckless.org/patches/vanitygaps/) : this patch adds (inner) gaps between client windows and (outer) gaps between windows and the screen edge in a flexible manner. 
