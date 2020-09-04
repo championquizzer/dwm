@@ -1,5 +1,5 @@
 
-# Joydeep's build of the Dynamic Window Manager (dwm)
+# Custom build of the Dynamic Window Manager (dwm)
 
 ![jbdwm](https://github.com/championquizzer/dwm/blob/master/jbdwm.png)
 
@@ -15,8 +15,7 @@ Each screen contains a small status bar which displays all available tags, the l
 
 ## **Motivation for the custom build**
 
-By default dwm is a barebones window manager and it's meant to be that way! Minimalism is at the core of suckless's philosophy.
-I am a heavy desktop user and to use dwm as my window manager I needed some tweaking and tinkering done. I have 'patched' some features to the default build and this is pretty much adapted to my particular workflow.
+By default dwm is a barebones window manager since minimalism is at the core of suckless's philosophy. I am a power user and to use dwm as my window manager I needed some tweaking done. I have 'patched' some features to the default build and this is pretty much adapted to my workflow.
 
 ## **Patches and features**
 
